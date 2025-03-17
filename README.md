@@ -1,7 +1,7 @@
 ## Olá eu sou o Jurandy 👋
 
 - 👨‍💻 Atualmente trabalho com Desenvolvimento Web usando ferramenta low code php.
-- 📚 Tecnólogo em Sistemas para Internet, pós graduando em engenharia de software e ciência de dados.
+- 📚 Tecnólogo em Sistemas para Internet, pós graduado em engenharia de software, data protection officer.
 - 🆙 Apaixonado por tecnologia e inovação.
 
 <div align="center">
